@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-btprt",
+  "version": "0.0.1-dev",
+  "description": "Plugin Cordova para Impressoras Bluetooth Android.",
+  "cordova": {
+    "id": "cordova-plugin-btprt",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoremor/btprt.git"
+  },
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "printer",
+    "pos",
+    "text",
+    "barcode",
+    "image",
+    "base64",
+    "qrcode",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    }
+  ],
+  "author": "Fernando Remor",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/fernandoremor/btprt/issues"
+  },
+  "homepage": "https://github.com/fernandoremor/btprt#readme"
+}
