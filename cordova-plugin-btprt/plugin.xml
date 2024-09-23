@@ -7,7 +7,7 @@
    <name>BTPrinter</name>
    <description>Plugin Cordova para Impressoras Bluetooth Android..</description>
 
-   <repo>https://github.com/fernandoremor/btprt</repo>
+   <repo>https://github.com/fernandoremor/btprt/cordova-plugin-btprt</repo>
    <license>Apache 2.0</license>
    <keywords>cordova, bluetooth, printer, pos, text, barcode, image, base64, qrcode</keywords>
 
