@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fernandoremor/btprt.git"
+    "url": "git+https://github.com/fernandoremor/btprt/cordova-plugin-btprt.git"
   },
   "keywords": [
     "cordova",
